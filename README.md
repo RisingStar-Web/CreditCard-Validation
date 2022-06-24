@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Deployed Netlify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[http://creditcard-verification.netlify.app](https://creditcard-verification.netlify.app)
 
 ## Available Scripts
 
